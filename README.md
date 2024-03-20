@@ -17,9 +17,7 @@ Check out slides [here](https://docs.google.com/presentation/d/e/2PACX-1vT-mYtCG
 ```
 
 **Latent Interpolation**
-![](https://github.com/dorarad/soda-diffusion/assets/interpolation_afhq_animals.mp4.mp4)
-
-<video width="100%" autoplay="" loop="" muted=""><source type="video/mp4" src="assets/"></video>
+![](https://github.com/soda-diffusion/soda-diffusion.github.io/blob/main/docs/assets/interpolation_afhq_animals.mp4)
 
 **Style & Content Separation**
 ![](https://github.com/dorarad/soda-diffusion/assets/style_structure_separation_afhq_animals.mp4.mp4)
