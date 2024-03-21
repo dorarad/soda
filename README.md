@@ -90,6 +90,7 @@ https://github.com/dorarad/soda-diffusion/assets/22748780/c9e715df-a505-4313-835
 
 
 Maturity:
+
 ![equivariant](https://github.com/dorarad/soda-diffusion/assets/22748780/12b543da-15b3-48fd-bab1-c1dc97e7fa6f)
 
 
