@@ -21,7 +21,11 @@ Check out slides [here](https://docs.google.com/presentation/d/e/2PACX-1vT-mYtCG
 
 
 **Latent Interpolation**
-https://github.com/dorarad/soda-diffusion/assets/22748780/cccba92c-9dd2-44d3-b1d7-5c4d83b12084
+
+
+https://github.com/dorarad/soda-diffusion/assets/22748780/019cb66e-462b-4c2a-93e6-22c8a50368c3
+
+
 
 **Style & Content Separation**
 https://github.com/dorarad/soda-diffusion/assets/22748780/f855a981-8743-42da-9dca-6c598f2c26af
