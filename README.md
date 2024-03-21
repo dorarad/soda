@@ -16,11 +16,15 @@ Check out slides [here](https://docs.google.com/presentation/d/e/2PACX-1vT-mYtCG
 }
 ```
 
+
+
+
+
 **Latent Interpolation**
-![](https://github.com/soda-diffusion/soda-diffusion.github.io/raw/main/docs/assets/interpolation_afhq_animals.mp4)
+https://github.com/dorarad/soda-diffusion/assets/22748780/cccba92c-9dd2-44d3-b1d7-5c4d83b12084
 
 **Style & Content Separation**
-![](https://github.com/dorarad/soda-diffusion/assets/style_structure_separation_afhq_animals.mp4.mp4)
+https://github.com/dorarad/soda-diffusion/assets/22748780/f855a981-8743-42da-9dca-6c598f2c26af
 
 **Novel View Synthesis (from 1 view)**
 ![](https://github.com/dorarad/soda-diffusion/assets/shapenet_1.mp4)
