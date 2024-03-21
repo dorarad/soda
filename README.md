@@ -1,5 +1,4 @@
 # SODA: Bottleneck Diffusion Models for Representation Learning
-Official Implementation 
 ![overview](https://github.com/dorarad/soda-diffusion/assets/22748780/af1c5cc7-4c67-4cef-b63b-9fa9522f2487)
 
 Official repository for CVPR paper [SODA: Bottleneck Diffusion Models for Representation Learning](https://arxiv.org/abs/2311.17901)
